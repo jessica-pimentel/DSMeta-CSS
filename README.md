@@ -2,7 +2,7 @@
 
 Projeto desenvolvido na semana DEVSuperior com auxilio do professor [Nélio Alves](https://github.com/acenelio).
 
-## Tecnologias utilizadas:
+## :rocket: Tecnologias utilizadas:
 - HTML e CSS;
 - Java e SpringBoot;
 - React;
