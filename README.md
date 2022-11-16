@@ -5,7 +5,8 @@ Projeto desenvolvido na semana DEVSuperior com auxilio do professor [Nélio Alve
 ## :rocket: Tecnologias utilizadas:
 - HTML e CSS;
 - Java e SpringBoot;
-- React;
+- React e Typescript;
+- Postman, Twilio e Heroku;
 - Git e GitHub;
 
 ## 🏷️ Layout:
