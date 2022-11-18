@@ -11,4 +11,4 @@ Projeto desenvolvido na semana DEVSuperior com auxilio do professor [Nélio Alve
 
 ## 🏷️ Layout:
 
-Você pode visualizar o layout do projeto através desse link 👉 [Em construção](). 
+Você pode visualizar o layout e site do projeto através desse link 👉 [Site DSMeta-CSS](https://dsmeta-jessica-pimentel.netlify.app/). 
