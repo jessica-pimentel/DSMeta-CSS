@@ -9,6 +9,3 @@ Projeto desenvolvido na semana DEVSuperior com auxilio do professor [Nélio Alve
 - Postman, Twilio e Heroku;
 - Git e GitHub;
 
-## 🏷️ Layout:
-
-Você pode visualizar o layout e site do projeto através desse link 👉 [Site DSMeta-CSS](https://dsmeta-jessica-pimentel.netlify.app/). 
